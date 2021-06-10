@@ -1,0 +1,2 @@
+[dffml.operation]
+alaskaair_round_trip_html = dffml_operations_flights.alaskaair:alaskaair_round_trip_html
